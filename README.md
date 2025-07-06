@@ -9,8 +9,8 @@
 
 ## 🔥 Tech Stack
 
-- **Languages:** Python, C++, JavaScript, SQL, C
-- **Frameworks & Tools:** Flask, React, Tailwind CSS, Firebase, Flutter, MySQL, PyTorch (exploring)
+- **Languages:** Python, Java, JavaScript, SQL, C
+- **Frameworks & Tools:** Flask, React, Tailwind CSS, Firebase, Flutter, MySQL, Spring Boot, PyTorch (exploring)
 - **Databases:** MySQL, MongoDB (learning)
 - **Other:** DICOM tools, Compiler design concepts, DBMS normalization, OS-level programming, DSA(Data Structures and Algorithms)
 
