@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm A Ahad Shaikh
+# 👋 Hi there! I'm Ahad Shaikh
 
 ## 🚀 About Me
 
